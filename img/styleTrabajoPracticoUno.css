@@ -1,0 +1,63 @@
+header{
+    background-color: #4B4B4B ;
+    color: white;
+    padding-left: 3%;
+    padding-right: 3%;
+    
+}
+
+.logo{
+    height: 70px;
+   
+}
+
+.color-letra {
+    color:#77DD77;
+  }
+
+section{
+    min-height: 90vh;
+    background: linear-gradient(rgba(26, 26, 27, 0.5), rgba(26, 26, 27, 0.5) ), url(./img/fondo.jpeg) center center ;
+    color: white;
+    opacity: 0.7;
+  
+}
+
+
+section> div  {
+    width: 40%;
+    position: relative;
+    left: 50%;
+    top: 200px;
+   
+    
+}
+
+.cardsSectionDos{
+    display: flex;
+    justify-content: center;
+}
+
+.frasesSectionDos{
+    text-align: center;
+   
+}
+
+section_tres{
+    display: inline-flex;
+}
+
+.paisaje{
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
